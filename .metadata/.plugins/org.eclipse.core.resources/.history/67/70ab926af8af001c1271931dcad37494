@@ -1,0 +1,13 @@
+package designPatterns.singleton.registry;
+
+public class Main {
+
+	public static void main(String[] args) {
+		DBConnection localConnection = DBConnection.getConnection();
+		localConnection.connect();
+		
+		DBConnection anotherLocalConnection = DBConnection.getConnection();
+		anotherLocalConnection.connect();
+	}
+
+}

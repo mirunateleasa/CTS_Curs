@@ -1,0 +1,32 @@
+package designPatterns.singleton.correct;
+
+public class DBConnection {
+	//SINGLETON reference:
+	private static DBConnection connection = null;
+	
+	String serverIp;
+	int serverPort;
+	String database;
+	
+	private DBConnection(String serverIp, int serverPort, String database) {
+		super();
+		this.serverIp = serverIp;
+		this.serverPort = serverPort;
+		this.database = database;
+	}
+	
+	public void connect()
+	{
+		System.out.println("Connecting to " + this.serverIp);
+	}
+	
+	public static DBConnection getConnection()
+	{
+		if (connection == null)
+		{
+			DBConnection connection = new DBConnection ("127.0.0.1", 3306, "university");
+		}
+		
+		return connection;
+	}
+}

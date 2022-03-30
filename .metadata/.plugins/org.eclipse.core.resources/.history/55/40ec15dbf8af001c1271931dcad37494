@@ -1,0 +1,8 @@
+package designPatterns.singleton.registry.hashMap;
+
+public class Snippet {
+	public static void main(String[] args) {
+		prodConnection
+	}
+}
+
