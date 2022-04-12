@@ -1,7 +1,0 @@
-package designPatterns.singleton;
-
-public class CoursesModule {
-	public Courses() {
-		DBConnection dbConnection = new DBConnection ("127.0.0.1", 3306, "university");
-	}
-}
