@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Facultate\ASE\An III Sem II\CTS\Curs\Code\Curs7"/>
+			<item value="D:\Facultate\ASE\An III Sem II\CTS\Curs\Code\Curs6"/>
 			<item value="D:\Facultate\ASE\An III Sem II\CTS\Curs\Code"/>
 		</list>
 	</section>

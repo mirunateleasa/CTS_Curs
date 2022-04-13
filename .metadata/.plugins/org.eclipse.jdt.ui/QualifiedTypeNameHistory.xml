@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.models.abstractDocument"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.models.AbstractDocument"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.DocumentOpenOfficeText"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.DocumentHtmlGeneric"/>
+    <fullyQualifiedTypeName name="java.lang.UnsupportedOperationException"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.DocumentWordText"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.factory.DocFactory"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.factory.DocType"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.simpleFactory.DocSimpleFactory"/>
 </qualifiedTypeNameHistroy>

@@ -1,9 +1,0 @@
-package designPatterns.singleton.registry.enumeration;
-
-public class Main {
-
-	public static void main(String[] args) {
-		DBConnection connection = DBConnection.LOCAL;
-	}
-
-}

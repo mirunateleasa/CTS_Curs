@@ -1,5 +1,0 @@
-package designPatterns.singleton.registry.enumeration;
-
-public class DBConnection {
-
-}
