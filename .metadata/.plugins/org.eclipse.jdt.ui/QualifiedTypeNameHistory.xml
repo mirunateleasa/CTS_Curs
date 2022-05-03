@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.models.abstractDocument"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.models.AbstractDocument"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.documents.DocumentOpenOfficeText"/>
@@ -21,4 +20,24 @@
     <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.ImproveClickDecorator"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.AbstractVisualControlDecorator"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.MouseHoverDecorator"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="creationals.singleton.lazy.unSync.Agency"/>
+    <fullyQualifiedTypeName name="creationals.builder.bankAccount.iBuilder"/>
+    <fullyQualifiedTypeName name="creationals.builder.bankAccount.BankAccount"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="creationals.builder.bankAccount.BankAccountBuilder"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.interfaces.IGPS"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.interfaces.ISIMCard"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.interfaces.IDisplay"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.eager.SmartDevice"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.eager.SmartDevice.SmartDeviceBuilder"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.lazy.SmartDevice"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.interfaces.IExternalMemory"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.DisplaySuperAMOLED"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.TelCoSIMCard"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.addOns.SDCard"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDeviceDirectory"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDevice.SmartDeviceBuilder"/>
+    <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDevice"/>
 </qualifiedTypeNameHistroy>
