@@ -10,4 +10,15 @@
     <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.factory.DocFactory"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.factory.DocType"/>
     <fullyQualifiedTypeName name="ro.ase.acs.cts.designPatterns.simpleFactory.DocSimpleFactory"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.printer.LaserPrinterInterface"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.printer.InkPrinterInterface"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.printer.Laser2InkPrinterAdapter"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.adapter.ofClasses.printer.LaserPrinterInterface"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.adapter.ofClasses.printer.InkPrinterInterface"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.AbstractVisualControl"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.Button3DDecorator"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.ImproveClickDecorator"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.AbstractVisualControlDecorator"/>
+    <fullyQualifiedTypeName name="ro.ase.acs.cts.controls.MouseHoverDecorator"/>
 </qualifiedTypeNameHistroy>

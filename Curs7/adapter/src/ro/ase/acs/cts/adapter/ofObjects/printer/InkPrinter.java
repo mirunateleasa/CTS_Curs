@@ -1,4 +1,4 @@
-package ro.ase.acs.cts.printer;
+package ro.ase.acs.cts.adapter.ofObjects.printer;
 
 public class InkPrinter implements InkPrinterInterface{
 

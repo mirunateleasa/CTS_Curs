@@ -1,6 +1,9 @@
 INDEX VERSION 1.131+D:\Facultate\ASE\An III Sem II\CTS\Curs\Code\.metadata\.plugins\org.eclipse.jdt.core
+3415086497.index
 1703668741.index
+89686527.index
 2364033328.index
 367073418.index
 1865797976.index
+4065932685.index
 1659250716.index
