@@ -40,4 +40,5 @@
     <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDeviceDirectory"/>
     <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDevice.SmartDeviceBuilder"/>
     <fullyQualifiedTypeName name="creationals.builder.complete.directory.SmartDevice"/>
+    <fullyQualifiedTypeName name="facade.device.Window"/>
 </qualifiedTypeNameHistroy>

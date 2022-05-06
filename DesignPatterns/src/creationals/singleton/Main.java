@@ -1,6 +1,6 @@
 package creationals.singleton;
 
-import creationals.singleton.lazy.unSync.Agency;
+import creationals.singleton.eager.Agency;
 
 public class Main {
 
